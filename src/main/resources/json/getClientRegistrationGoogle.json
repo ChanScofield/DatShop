@@ -1,0 +1,11 @@
+{
+  "registrationId": "google",
+  "clientId": "608357775386-14allpsfiu03qadbek70q1vronu5jt62.apps.googleusercontent.com",
+  "clientSecret": "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",
+  "clientAuthenticationMethod": "org.springframework.security.oauth2.core.ClientAuthenticationMethod@4fcef9d3",
+  "authorizationGrantType": "org.springframework.security.oauth2.core.AuthorizationGrantType@5da5e9f3",
+  "redirectUri": "{baseUrl}/{action}/oauth2/code/{registrationId}",
+  "scopes": "[email, profile]",
+  "providerDetails": "org.springframework.security.oauth2.client.registration.ClientRegistration$ProviderDetails@4189a435",
+  "clientName": "Google"
+}

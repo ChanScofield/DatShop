@@ -1,0 +1,112 @@
+#logreg-forms {
+    width: 412px;
+    margin: 10vh auto;
+    border-radius: 27px;
+    background-color: #f3f3f3;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+}
+
+#logreg-forms form {
+    width: 100%;
+    max-width: 410px;
+    padding: 15px;
+    margin: auto;
+}
+
+#logreg-forms .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#logreg-forms .form-control:focus {
+    z-index: 2;
+}
+
+#logreg-forms .form-signin input, .form-signup input {
+    border-radius: 27px;
+    margin-bottom: 10px;
+}
+
+#logreg-forms .social-login {
+    width: 390px;
+    margin: 0 auto;
+    margin-bottom: 14px;
+}
+
+#logreg-forms .social-btn {
+    font-weight: 100;
+    color: white;
+    width: 190px;
+    font-size: 0.9rem;
+}
+
+#logreg-forms a {
+    padding-top: 10px;
+    color: lightseagreen;
+}
+
+#logreg-form .lines {
+    width: 200px;
+    border: 1px solid red;
+}
+
+#logreg-forms button[type="submit"], button[type="button"] {
+    border-radius: 27px;
+}
+
+#logreg-forms .form-signup .social-btn {
+    width: 210px;
+}
+
+.form-signup .social-login {
+    width: 210px !important;
+    margin: 0 auto;
+}
+
+.ui-state-error-text {
+    color: #c01508;
+}
+
+.ui-state-active-text {
+    color: green;
+}
+
+b {
+    color: #c01508;
+}
+
+.google-btn {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s ease;
+    background-color: #c84130;
+}
+
+.github-btn {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s ease;
+    background-color: #23282c;
+}
+
+.github-btn:hover {
+    background-color: #444;
+    border-color: #bbb;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+.google-btn:hover {
+    background-color: #e95d48;
+    border-color: #dc5151;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+.button-social {
+    display: inline-block;
+}
+
+#cancel_signup {
+    display: block;
+}

@@ -1,0 +1,19 @@
+{
+  "at_hash": "9i7rVIj9X2xO-N9YeZ5ttg",
+  "sub": "110579568715870471223",
+  "email_verified": true,
+  "iss": "https://accounts.google.com",
+  "given_name": "Dat",
+  "locale": "vi",
+  "nonce": "DemIFarTR_6L7AZK4N3z_CrRviKVgUTeJSnTgBAExqM",
+  "picture": "https://lh3.googleusercontent.com/a/AGNmyxbGsjl9KUkojzHRnW361zrewVS7gajOW3T-bzBkkA=s96-c",
+  "aud": [
+    "608357775386-14allpsfiu03qadbek70q1vronu5jt62.apps.googleusercontent.com"
+  ],
+  "azp": "608357775386-14allpsfiu03qadbek70q1vronu5jt62.apps.googleusercontent.com",
+  "name": "Dat Chan",
+  "exp": "2023-05-11T21:42:31Z",
+  "family_name": "Chan",
+  "iat": "2023-05-11T20:42:31Z",
+  "email": "dratkomg@gmail.com"
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "accessInfo": {
+      "accessViewStatus": "SAMPLE",
+      "country": "RU",
+      "embeddable": true,
+      "epub": {
+        "acsTokenLink": "http://books.google.ru/books/download/%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_Java_%D0%9B-sample-epub.acsm?id=gOweEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+        "isAvailable": true
+      },
+      "pdf": {
+        "acsTokenLink": "http://books.google.ru/books/download/%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_Java_%D0%9B-sample-pdf.acsm?id=gOweEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+        "isAvailable": true
+      },
+      "publicDomain": false,
+      "quoteSharingAllowed": false,
+      "textToSpeechPermission": "ALLOWED",
+      "viewability": "PARTIAL",
+      "webReaderLink": "http://play.google.com/books/reader?id=gOweEAAAQBAJ&hl=&source=gbs_api"
+    },
+    "etag": "OTIVpJbhwtQ",
+    "id": "gOweEAAAQBAJ",
+    "kind": "books#volume",
+    "saleInfo": {
+      "buyLink": "https://play.google.com/store/books/details?id=gOweEAAAQBAJ&rdid=book-gOweEAAAQBAJ&rdot=1&source=gbs_api",
+      "country": "RU",
+      "isEbook": true,
+      "listPrice": {
+        "amount": 1617.0,
+        "currencyCode": "RUB"
+      },
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": {
+            "amountInMicros": 1.617E9,
+            "currencyCode": "RUB"
+          },
+          "retailPrice": {
+            "amountInMicros": 1.617E9,
+            "currencyCode": "RUB"
+          }
+        }
+      ],
+      "retailPrice": {
+        "amount": 1617.0,
+        "currencyCode": "RUB"
+      },
+      "saleability": "FOR_SALE"
+    },
+    "searchInfo": {
+      "textSnippet": "Преимущество современных приложений — в передовых решениях, включающих микросервисы, реактивные архитектуры и потоковую ..."
+    },
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/gOweEAAAQBAJ",
+    "volumeInfo": {
+      "allowAnonLogging": false,
+      "authors": [
+        "Урма Рауль-Габриэль",
+        "Фуско Марио",
+        "Майкрофт Алан"
+      ],
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gOweEAAAQBAJ",
+      "categories": [
+        "Computers"
+      ],
+      "contentVersion": "1.2.3.0.preview.3",
+      "description": "Преимущество современных приложений — в передовых решениях, включающих микросервисы, реактивные архитектуры и потоковую обработку данных. Лямбда-выражения, потоки данных и долгожданная система модулей платформы Java значительно упрощают их реализацию. Пришло время повысить свою квалификацию и встретить любой вызов во всеоружии! Книга поможет вам овладеть новыми возможностями современных дополнений, таких как API Streams и система модулей платформы Java. Откройте для себя новые подходы к конкурентности и узнайте, как концепции функциональности улучшают работу с кодом. В этой книге: • Новые возможности Java. • Потоковые данные и реактивное программирование. • Система модулей платформы Java.",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=gOweEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=gOweEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "industryIdentifiers": [
+        {
+          "identifier": "9785446109975",
+          "type": "ISBN_13"
+        },
+        {
+          "identifier": "544610997X",
+          "type": "ISBN_10"
+        }
+      ],
+      "infoLink": "https://play.google.com/store/books/details?id=gOweEAAAQBAJ&source=gbs_api",
+      "language": "ru",
+      "maturityRating": "NOT_MATURE",
+      "pageCount": 592,
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "previewLink": "http://books.google.ru/books?id=gOweEAAAQBAJ&printsec=frontcover&dq=java&hl=&cd=1&source=gbs_api",
+      "printType": "BOOK",
+      "publishedDate": "2019-08-30",
+      "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "title": "Современный язык Java. Лямбда-выражения, потоки и функциональное программирование"
+    }
+  }
+]

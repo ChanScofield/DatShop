@@ -1,0 +1,72 @@
+[
+  {
+    "accessInfo": {
+      "accessViewStatus": "NONE",
+      "country": "RU",
+      "embeddable": false,
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "publicDomain": false,
+      "quoteSharingAllowed": false,
+      "textToSpeechPermission": "ALLOWED",
+      "viewability": "NO_PAGES",
+      "webReaderLink": "http://play.google.com/books/reader?id=9-TVPAAACAAJ&hl=&source=gbs_api"
+    },
+    "etag": "UNi5ruPS7aQ",
+    "id": "9-TVPAAACAAJ",
+    "kind": "books#volume",
+    "saleInfo": {
+      "country": "RU",
+      "isEbook": false,
+      "saleability": "NOT_FOR_SALE"
+    },
+    "searchInfo": {
+      "textSnippet": "まんがで英会話を学べる人気シリーズ第7弾"
+    },
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9-TVPAAACAAJ",
+    "volumeInfo": {
+      "allowAnonLogging": false,
+      "authors": [
+        "藤子 F・不二雄"
+      ],
+      "averageRating": 5.0,
+      "canonicalVolumeLink": "https://books.google.com/books/about/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93.html?hl=&id=9-TVPAAACAAJ",
+      "categories": [
+        "Comic books, strips, etc"
+      ],
+      "contentVersion": "preview-1.0.0",
+      "description": "ドラえもんは、2112年9月3日生まれのネコ型ロボット。22世紀の未来からタイムマシンにのって、のび太君を助けにやって来た。ドラえもんは、おなかの四次元ポケットから、便利なひみつ道具をいろいろ出して、のび太君のピンチを救ってくれます。英文が吹き出しの中に、日本語がその吹き出しのコマの外についています。英語と日本語が併記してありますので、二つの言語で原作のストーリーを楽しむことができ、英語の力が自然についていくことでしょう。",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=9-TVPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=9-TVPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "industryIdentifiers": [
+        {
+          "identifier": "4092270178",
+          "type": "ISBN_10"
+        },
+        {
+          "identifier": "9784092270176",
+          "type": "ISBN_13"
+        }
+      ],
+      "infoLink": "http://books.google.ru/books?id=9-TVPAAACAAJ&dq=doraemon&hl=&source=gbs_api",
+      "language": "en",
+      "maturityRating": "NOT_MATURE",
+      "pageCount": 160,
+      "previewLink": "http://books.google.ru/books?id=9-TVPAAACAAJ&dq=doraemon&hl=&cd=1&source=gbs_api",
+      "printType": "BOOK",
+      "publishedDate": "2004-01-01",
+      "ratingsCount": 1,
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "title": "ドラえもん"
+    }
+  }
+]

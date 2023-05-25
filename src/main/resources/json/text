@@ -1,0 +1,48 @@
+UsernamePasswordAuthenticationToken [Principal=com.example.datshopspring2.security.details.UserDetailsImpl@60c977e6,
+Credentials=[PROTECTED],
+Authenticated=true,
+Details=WebAuthenticationDetails [RemoteIpAddress=0:0:0:0:0:0:0:1, SessionId=4144F3CB40F14B647FEAA64529D5DA07],
+Granted Authorities=[ADMIN]]
+
+_admin
+
+
+OAuth2AuthenticationToken [Principal=Name: [DratkOMG], Granted Authorities: [[OAUTH2_USER]],
+User Attributes: [{login=DratkOMG,
+id=89998945,
+node_id=MDQ6VXNlcjg5OTk4OTQ1,
+avatar_url=https://avatars.githubusercontent.com/u/89998945?v=4,
+gravatar_id=, url=https://api.github.com/users/DratkOMG,
+html_url=https://github.com/DratkOMG,
+followers_url=https://api.github.com/users/DratkOMG/followers,
+following_url=https://api.github.com/users/DratkOMG/following{/other_user},
+gists_url=https://api.github.com/users/DratkOMG/gists{/gist_id},
+starred_url=https://api.github.com/users/DratkOMG/starred{/owner}{/repo},
+subscriptions_url=https://api.github.com/users/DratkOMG/subscriptions,
+organizations_url=https://api.github.com/users/DratkOMG/orgs,
+repos_url=https://api.github.com/users/DratkOMG/repos,
+events_url=https://api.github.com/users/DratkOMG/events{/privacy},
+received_events_url=https://api.github.com/users/DratkOMG/received_events,
+type=User,
+site_admin=false,
+name=null,
+company=null,
+blog=,
+location=null,
+email=null,
+hireable=null,
+bio=null,
+twitter_username=null,
+public_repos=10,
+public_gists=0,
+followers=2,
+following=0,
+created_at=2021-09-02T17:35:52Z,
+updated_at=2023-05-13T12:37:35Z}],
+Credentials=[PROTECTED],
+Authenticated=true,
+Details=WebAuthenticationDetails [RemoteIpAddress=0:0:0:0:0:0:0:1, SessionId=2CE91EC436EFB1AD4057D824E23D7CFD],
+Granted Authorities=[OAUTH2_USER]]
+
+
+_oauth2_user

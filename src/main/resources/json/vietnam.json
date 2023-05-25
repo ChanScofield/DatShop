@@ -1,0 +1,848 @@
+{
+  "items": [
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "RU",
+        "embeddable": true,
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.ru/books/download/Lyndon_Johnson_and_Vietnam-sample-pdf.acsm?id=S9z_AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=S9z_AwAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "DFXUSuqPMlw",
+      "id": "S9z_AwAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=S9z_AwAAQBAJ&rdid=book-S9z_AwAAQBAJ&rdot=1&source=gbs_api",
+        "country": "RU",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5567.74,
+          "currencyCode": "RUB"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5.56774E9,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 5.56774E9,
+              "currencyCode": "RUB"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 5567.74,
+          "currencyCode": "RUB"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "This book examines the events that led up to the day--March 31, 1968--when Lyndon Johnson dramatically renounced any attempt to be reelected president of the United States."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S9z_AwAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Herbert Y. Schandler"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=S9z_AwAAQBAJ",
+        "categories": [
+          "History"
+        ],
+        "contentVersion": "0.2.0.0.preview.1",
+        "description": "This book examines the events that led up to the day--March 31, 1968--when Lyndon Johnson dramatically renounced any attempt to be reelected president of the United States. It offers one of the best descriptions of U.S. policy surrounding the Tet offensive of that fateful March--a historic turning point in the war in Vietnam that led directly to the end of American military intervention. Originally published in 1977. The Princeton Legacy Library uses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These editions preserve the original texts of these important books while presenting them in durable paperback and hardcover editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S9z_AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S9z_AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9781400856824",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "1400856825",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=S9z_AwAAQBAJ&source=gbs_api",
+        "language": "en",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 440,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.ru/books?id=S9z_AwAAQBAJ&printsec=frontcover&dq=vietnam&hl=&cd=1&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2014-07-14",
+        "publisher": "Princeton University Press",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "subtitle": "The Unmaking of a President",
+        "title": "Lyndon Johnson and Vietnam"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "RU",
+        "embeddable": true,
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "ALL_PAGES",
+        "webReaderLink": "http://play.google.com/books/reader?id=uONWAgAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "iLHH2EwwCFM",
+      "id": "uONWAgAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=uONWAgAAQBAJ&rdid=book-uONWAgAAQBAJ&rdot=1&source=gbs_api",
+        "country": "RU",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1589.99,
+          "currencyCode": "RUB"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.58999E9,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.43099E9,
+              "currencyCode": "RUB"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 1430.99,
+          "currencyCode": "RUB"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "In short, efficient logistics can become a driver of lasting growth."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uONWAgAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": true,
+        "authors": [
+          "Luis C. Blancas",
+          "John Isbell",
+          "Monica Isbell",
+          "Hua Joo Tan",
+          "Wendy Tao"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uONWAgAAQBAJ",
+        "categories": [
+          "Business & Economics"
+        ],
+        "contentVersion": "0.1.2.0.preview.3",
+        "description": "Vietnam has attained a strong record of economic growth and poverty reduction since the adoption of market-based economic reforms and pro-poor policies starting in the mid-1980s. Much of this achievement was driven by an untapped, rapidly-growing labor force and the enablement of greater labor participation in higher-productivity sectors of the economy. Yet, as Vietnam has restructured its economic activity towards manufacturing, more mechanized primary sector production and, increasingly, services, and as the labor force is projected to expand at a markedly lower rate than before, finding new sources of productivity improvements has become the key to sustaining economic growth going forward. Improvements in freight logistics can unlock productivity gains across the Vietnamese economy for years to come. The shippers and carriers that operate the supply chains that connect Vietnam to the global economy generally perceive that logistics costs in Vietnam—those incurred when moving, storing and inspecting goods—are more onerous than in peer economies like China, Malaysia and Thailand, even as they are also perceived to be more competitive than those in other developing Asian countries. While many factors may contribute to costly logistics, the main source of underperformance in Vietnam’s logistics sector appears to be the inventory-carrying implications of unreliable freight itineraries, unpredictable inspection and clearance procedures, and an uncertain planning, legal and regulatory framework. By making commerce more predictable, particularly for regional and inter-continental trade, more efficient logistics can lower the cost of doing business, boost competitiveness, attract investment and generate employment. In short, efficient logistics can become a driver of lasting growth. Directed at industry practitioners and policy makers alike, this report highlights five key initiatives to improve the reliability and cost-effectiveness of transportation and logistics in Vietnam’s domestic and international supply chains. These include: (i) modernizing the customs system more broadly to enable goods clearance in a consistently timely manner; (ii) enhancing regulatory transparency to minimize discretion in the regulation of commerce; (iii) promoting multimodal transport corridor planning; (iv) enhancing competition and professionalism in the trucking industry; and (v) deploying capacity more strategically at major gateways, particularly at Cai Map-Thi Vai.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uONWAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uONWAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9781464801044",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "1464801045",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=uONWAgAAQBAJ&source=gbs_api",
+        "language": "en",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 200,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.ru/books?id=uONWAgAAQBAJ&printsec=frontcover&dq=vietnam&hl=&cd=2&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2014-01-02",
+        "publisher": "World Bank Publications",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "subtitle": "A Key to Vietnam's Competitiveness",
+        "title": "Efficient Logistics"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "RU",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.ru/books/download/Vietnam_and_America-sample-epub.acsm?id=SVtNalqmYgAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.ru/books/download/Vietnam_and_America-sample-pdf.acsm?id=SVtNalqmYgAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=SVtNalqmYgAC&hl=&source=gbs_api"
+      },
+      "etag": "IRetfnvk8dU",
+      "id": "SVtNalqmYgAC",
+      "kind": "books#volume",
+      "saleInfo": {
+        "country": "RU",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "With generous selections from the documentary records, the book dispels distortions and illuminates in depth the many facets of the war, from Vietnam s history before the war, to Washington s insider policy making, to troop perspectives, to ..."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SVtNalqmYgAC",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Marvin E. Gettleman",
+          "Jane Franklin",
+          "Marilyn Blatt Young",
+          "Howard Bruce Franklin"
+        ],
+        "averageRating": 4.0,
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vietnam_and_America.html?hl=&id=SVtNalqmYgAC",
+        "categories": [
+          "History"
+        ],
+        "contentVersion": "2.2.7.0.preview.3",
+        "description": "No single event since World War II has marked this country s foreign policy and national image as deeply as did the war in Vietnam. Vietnam and America is a complete history of the war, as documented in essays by leading experts and in original source material. With generous selections from the documentary records, the book dispels distortions and illuminates in depth the many facets of the war, from Vietnam s history before the war, to Washington s insider policy making, to troop perspectives, to the impact back on the home front. In essays introducing each major stage of the war, the editors elucidate the issues, foreign policy choices, and consequences of U.S. involvement. Substantial headnotes put each document in historical perspective. This comprehensive anthology is an invaluable reference for anyone who wants to understand the Vietnam War.\"",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SVtNalqmYgAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SVtNalqmYgAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "0802133622",
+            "type": "ISBN_10"
+          },
+          {
+            "identifier": "9780802133625",
+            "type": "ISBN_13"
+          }
+        ],
+        "infoLink": "http://books.google.ru/books?id=SVtNalqmYgAC&dq=vietnam&hl=&source=gbs_api",
+        "language": "en",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 580,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.ru/books?id=SVtNalqmYgAC&printsec=frontcover&dq=vietnam&hl=&cd=3&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "1995",
+        "publisher": "Grove Press",
+        "ratingsCount": 1,
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "subtitle": "A Documented History",
+        "title": "Vietnam and America"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "RU",
+        "embeddable": true,
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.ru/books/download/Labour_in_Vietnam-sample-pdf.acsm?id=i2Zpu-rhq1kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=i2Zpu-rhq1kC&hl=&source=gbs_api"
+      },
+      "etag": "vK/eJ/+X0II",
+      "id": "i2Zpu-rhq1kC",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=i2Zpu-rhq1kC&rdid=book-i2Zpu-rhq1kC&rdot=1&source=gbs_api",
+        "country": "RU",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3579.26,
+          "currencyCode": "RUB"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.57926E9,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 3.57926E9,
+              "currencyCode": "RUB"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 3579.26,
+          "currencyCode": "RUB"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "This is the first book to focus on the role and conditions of workers in the new economic regime."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i2Zpu-rhq1kC",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Anita Chan"
+        ],
+        "averageRating": 4.0,
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=i2Zpu-rhq1kC",
+        "categories": [
+          "Business & Economics"
+        ],
+        "contentVersion": "0.1.1.0.preview.1",
+        "description": "Two decades after Vietnam introduced a programme of economic renovation commonly known in Doi Moi, the country today allows market competition in industry, and a new working class has been created. This is the first book to focus on the role and conditions of workers in the new economic regime. The authors of the book trace Vietnam's labour history, explore the impact of the socialist legacy and examine the reasons for the large number of recent strikes. The book provides insights into the wo...",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i2Zpu-rhq1kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i2Zpu-rhq1kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789814311946",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9814311944",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=i2Zpu-rhq1kC&source=gbs_api",
+        "language": "en",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 346,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.ru/books?id=i2Zpu-rhq1kC&printsec=frontcover&dq=vietnam&hl=&cd=4&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2011-08-12",
+        "publisher": "Institute of Southeast Asian Studies",
+        "ratingsCount": 1,
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "title": "Labour in Vietnam"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "RU",
+        "embeddable": true,
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.ru/books/download/Vietnam-sample-pdf.acsm?id=A71MQgcpGpsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=A71MQgcpGpsC&hl=&source=gbs_api"
+      },
+      "etag": "HIG21UAekz4",
+      "id": "A71MQgcpGpsC",
+      "kind": "books#volume",
+      "saleInfo": {
+        "country": "RU",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Vietnam offers complete coverage of this fascinating country, including sections on history, geography, wildlife, infrastructure and government, and culture. It also includes a detailed fact file, maps and charts, and a traceable flag."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A71MQgcpGpsC",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Charlotte Guillain"
+        ],
+        "averageRating": 5.0,
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vietnam.html?hl=&id=A71MQgcpGpsC",
+        "categories": [
+          "Vietnam"
+        ],
+        "contentVersion": "preview-1.0.0",
+        "description": "Vietnam offers complete coverage of this fascinating country, including sections on history, geography, wildlife, infrastructure and government, and culture. It also includes a detailed fact file, maps and charts, and a traceable flag.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A71MQgcpGpsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A71MQgcpGpsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9781406246681",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "1406246689",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "http://books.google.ru/books?id=A71MQgcpGpsC&dq=vietnam&hl=&source=gbs_api",
+        "language": "en",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 51,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.ru/books?id=A71MQgcpGpsC&printsec=frontcover&dq=vietnam&hl=&cd=5&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2012",
+        "publisher": "Raintree",
+        "ratingsCount": 1,
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "title": "Vietnam"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE",
+        "country": "RU",
+        "embeddable": false,
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "NO_PAGES",
+        "webReaderLink": "http://play.google.com/books/reader?id=Q5aRDwAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "w9PqhGrpmkU",
+      "id": "Q5aRDwAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "country": "RU",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Learn how the United States ended up fighting for twenty years in a remote country on the other side of the world. The Vietnam War was as much a part of the tumultuous Sixties as Flower Power and the Civil Rights Movement."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q5aRDwAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Jim O'Connor",
+          "Who HQ"
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_Was_the_Vietnam_War.html?hl=&id=Q5aRDwAAQBAJ",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "contentVersion": "0.2.0.0.preview.0",
+        "description": "Learn how the United States ended up fighting for twenty years in a remote country on the other side of the world. The Vietnam War was as much a part of the tumultuous Sixties as Flower Power and the Civil Rights Movement. Five US presidents were convinced that American troops could end a war in the small, divided country of Vietnam and stop Communism from spreading in Southeast Asia. But they were wrong, and the result was the death of 58,000 American troops. Presenting all sides of a complicated and tragic chapter in recent history, Jim O'Connor explains why the US got involved, what the human cost was, and how defeat in Vietnam left a lasting scar on America.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q5aRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q5aRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9781524789770",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "1524789771",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "http://books.google.ru/books?id=Q5aRDwAAQBAJ&dq=vietnam&hl=&source=gbs_api",
+        "language": "en",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 130,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.ru/books?id=Q5aRDwAAQBAJ&dq=vietnam&hl=&cd=6&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2019-05-07",
+        "publisher": "Penguin",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "title": "What Was the Vietnam War?"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "RU",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.ru/books/download/Vietnam_Anatomy_of_a_Peace-sample-epub.acsm?id=WeWOXAsJtmoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.ru/books/download/Vietnam_Anatomy_of_a_Peace-sample-pdf.acsm?id=WeWOXAsJtmoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=WeWOXAsJtmoC&hl=&source=gbs_api"
+      },
+      "etag": "L52HtNpLUs0",
+      "id": "WeWOXAsJtmoC",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=WeWOXAsJtmoC&rdid=book-WeWOXAsJtmoC&rdot=1&source=gbs_api",
+        "country": "RU",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3578.04,
+          "currencyCode": "RUB"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.57804E9,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 3.57804E9,
+              "currencyCode": "RUB"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 3578.04,
+          "currencyCode": "RUB"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Gabriel Kolko argues that neither an intentional socialist or market strategy have determined recent Vietnamese history and, in fact, the Communist Party has little control over development during peace time."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WeWOXAsJtmoC",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Gabriel Kolko"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WeWOXAsJtmoC",
+        "categories": [
+          "History"
+        ],
+        "contentVersion": "1.2.2.0.preview.3",
+        "description": "Vietnam has experienced huge political and economic development since the war. In Anatomy of a Peace, Gabriel Kolko looks at the main economic phases the Communist Party has embarked upon since 1986 and outlines the transition to nascent capitalism. He also explores Vietnam's relations to its neighbours and the US in the light of social and psychological national features. Based on extensive research and over 30 years first hand experience, Anatomy of a Peace is a timely examination of recent history and developing economies in Asia. Gabriel Kolko argues that neither an intentional socialist or market strategy have determined recent Vietnamese history and, in fact, the Communist Party has little control over development during peace time.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WeWOXAsJtmoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WeWOXAsJtmoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9781134721948",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "1134721943",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=WeWOXAsJtmoC&source=gbs_api",
+        "language": "en",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 200,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.ru/books?id=WeWOXAsJtmoC&printsec=frontcover&dq=vietnam&hl=&cd=7&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2008-02-21",
+        "publisher": "Routledge",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "title": "Vietnam: Anatomy of a Peace"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "RU",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.ru/books/download/Communion-sample-epub.acsm?id=s1z5p7gimmEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=s1z5p7gimmEC&hl=&source=gbs_api"
+      },
+      "etag": "e31wfkY7EFQ",
+      "id": "s1z5p7gimmEC",
+      "kind": "books#volume",
+      "saleInfo": {
+        "country": "RU",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Examining how we eat reflects who we are as individuals and as communities, Communion: A Culinary Journey Through Vietnam offers a feast for armchair gourmets, as well as a colorful guide for travelers hungering for their next adventure."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s1z5p7gimmEC",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Kim Fay"
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Communion.html?hl=&id=s1z5p7gimmEC",
+        "categories": [
+          "Cooking"
+        ],
+        "contentVersion": "1.2.4.0.preview.2",
+        "description": "Living in Vietnam for four years in the 1990s, Seattle native Kim Fay fell in love with the romantic landscapes, the rich culture, and the uninhibited warmth of the people. A decade later, she grew hungry for more. Inspired by the dream of learning to make a Vietnamese meal for her friends and family in America, Kim returned to Vietnam and embarked on an unforgettable five-week culinary journey from Hanoi to Saigon. Joined by her sister and best Vietnamese girlfriend, Kim set off to taste as much as possible while exploring rituals and traditions, street cafés and haute cuisine, famine and feast, and Communism and the legacy of war. Together, the three women discovered a society shaped by its ever-changing relationship with food. Every encounter serves up an enticing morsel, from uncovering the secret world of ragu in the French hill town of Dalat to bonding with the Julia Child of Vietnam in Saigon. Epicures and culture buffs will delight in markets, restaurants, farms, fisheries, and cooking classes as Kim assembles her dream meal and shares recipes such as banana flower salad and clay pot fish. Examining how we eat reflects who we are as individuals and as communities, Communion: A Culinary Journey Through Vietnam offers a feast for armchair gourmets, as well as a colorful guide for travelers hungering for their next adventure.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s1z5p7gimmEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s1z5p7gimmEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "193415914X",
+            "type": "ISBN_10"
+          },
+          {
+            "identifier": "9781934159149",
+            "type": "ISBN_13"
+          }
+        ],
+        "infoLink": "http://books.google.ru/books?id=s1z5p7gimmEC&dq=vietnam&hl=&source=gbs_api",
+        "language": "en",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 300,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.ru/books?id=s1z5p7gimmEC&printsec=frontcover&dq=vietnam&hl=&cd=8&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2010",
+        "publisher": "ThingsAsian Press",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "subtitle": "A Culinary Journey Through Vietnam",
+        "title": "Communion"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE",
+        "country": "RU",
+        "embeddable": false,
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "NO_PAGES",
+        "webReaderLink": "http://play.google.com/books/reader?id=aeslDAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "7/P7Czr0X3c",
+      "id": "aeslDAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "country": "RU",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "A major achievement, Vietnam offers the grand narrative of the country&#39;s complex past and the creation of the modern state of Vietnam. It is the definitive single-volume history for anyone seeking to understand Vietnam today."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aeslDAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": true,
+        "authors": [
+          "Christopher Goscha"
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vietnam.html?hl=&id=aeslDAAAQBAJ",
+        "categories": [
+          "History"
+        ],
+        "contentVersion": "4.8.7.0.preview.2",
+        "description": "A 2017 Cundill History Prize Finalist \"Groundbreaking...Goscha has provided quite simply the finest, most readable single-volume history of Vietnam in English.\"--Guardian In Vietnam, Christopher Goscha tells the full history of Vietnam, from antiquity to the present day. Generations of emperors, rebels, priests, and colonizers left complicated legacies in this remarkable country. Periods of Chinese, French, and Japanese rule reshaped and modernized Vietnam, but so too did the colonial enterprises of the Vietnamese themselves as they extended their influence southward from the Red River Delta. Over the centuries, numerous kingdoms, dynasties, and states have ruled over--and fought for--what is now Vietnam. The bloody Cold War-era conflict between Ho Chi Minh's communist-backed Democratic Republic of Vietnam and the American-backed Republic of Vietnam was only the most recent instance when war divided and transformed Vietnam. A major achievement, Vietnam offers the grand narrative of the country's complex past and the creation of the modern state of Vietnam. It is the definitive single-volume history for anyone seeking to understand Vietnam today.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aeslDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aeslDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9780465094370",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "0465094376",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "http://books.google.ru/books?id=aeslDAAAQBAJ&dq=vietnam&hl=&source=gbs_api",
+        "language": "en",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 592,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.ru/books?id=aeslDAAAQBAJ&dq=vietnam&hl=&cd=9&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2016-09-13",
+        "publisher": "Basic Books",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "subtitle": "A New History",
+        "title": "Vietnam"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE",
+        "country": "RU",
+        "embeddable": false,
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "NO_PAGES",
+        "webReaderLink": "http://play.google.com/books/reader?id=L3tuAAAAMAAJ&hl=&source=gbs_api"
+      },
+      "etag": "epB20HfV2s4",
+      "id": "L3tuAAAAMAAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "country": "RU",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "In this fourth edition, SarDesai provides new insights on the decision-making process in Hanoi and Washington D.C. during the Vietnam conflict."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L3tuAAAAMAAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "D.R. SarDesai"
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vietnam.html?hl=&id=L3tuAAAAMAAJ",
+        "categories": [
+          "History"
+        ],
+        "contentVersion": "0.2.1.0.preview.0",
+        "description": "Recent U.S. military interventions in Kosovo and Iraq have stirred public memories of the long and costly Vietnam conflict. Scholars and strategists, military leaders and media continue to raise questions such as what motivated the Vietnamese to wage a protracted conflict first against the French and later against the Americans at such great economic and emotional cost. In this fourth edition, SarDesai provides new insights on the decision-making process in Hanoi and Washington D.C. during the Vietnam conflict. He analyzes the extensive historiographical dialog in the 1990's involving scholars, strategists and policy-makers of the two countries. He addresses the postwar era of Vietnam's reconstruction, administrative reorganization, the U.N. sponsored Cambodian settlement, as well as Vietnam's membership and growing role in the ASEAN. SarDesai also looks at the new economic and strategic relationship between Vietnam and its former foe marked by President Clinton's visit to Hanoi and the increasing U.S. investment and trade in Vietnam in the aftermath of the Bilateral Trade Treaty (BTA) of July 2000. Concise, clear, and manageable coverage of Vietnamese history for one semester courses. Updated and expanded in the 4th edition to cover the most recent events and issues facing Vietnam, as well as providing greater depth of coverage to primary historical material.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L3tuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L3tuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "UOM:39015062892941",
+            "type": "OTHER"
+          }
+        ],
+        "infoLink": "http://books.google.ru/books?id=L3tuAAAAMAAJ&dq=vietnam&hl=&source=gbs_api",
+        "language": "en",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 292,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.ru/books?id=L3tuAAAAMAAJ&q=vietnam&dq=vietnam&hl=&cd=10&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2005-02-04",
+        "publisher": "Westview Press",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "subtitle": "Past and Present",
+        "title": "Vietnam"
+      }
+    }
+  ],
+  "kind": "books#volumes",
+  "totalItems": 809
+}

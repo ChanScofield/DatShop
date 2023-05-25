@@ -1,0 +1,11 @@
+{
+  "registrationId":"github",
+  "clientId":"Iv1.efec55b43f888a7b",
+  "clientSecret":"053127f9c98debbee565a6a8684217dea243f5dd",
+  "clientAuthenticationMethod":"org.springframework.security.oauth2.core.ClientAuthenticationMethod@4fcef9d3",
+  "authorizationGrantType":"org.springframework.security.oauth2.core.AuthorizationGrantType@5da5e9f3",
+  "redirectUri":"{baseUrl}/{action}/oauth2/code/{registrationId}",
+  "scopes":["read":"user"],
+  "providerDetails":"org.springframework.security.oauth2.client.registration.ClientRegistration$ProviderDetails@1a77d4e8",
+  "clientName":"GitHub"
+}
